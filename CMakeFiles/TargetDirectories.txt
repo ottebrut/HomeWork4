@@ -1,0 +1,7 @@
+/home/andrew/HomeWork4/CMakeFiles/rebuild_cache.dir
+/home/andrew/HomeWork4/CMakeFiles/huffman.dir
+/home/andrew/HomeWork4/CMakeFiles/edit_cache.dir
+/home/andrew/HomeWork4/lib/CMakeFiles/edit_cache.dir
+/home/andrew/HomeWork4/lib/CMakeFiles/lib.dir
+/home/andrew/HomeWork4/lib/CMakeFiles/rebuild_cache.dir
+/home/andrew/HomeWork4/lib/CMakeFiles/huffman_test.dir

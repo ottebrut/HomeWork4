@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrew/HomeWork4/lib/huffman.h
+vector
+-
+
+/home/andrew/HomeWork4/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+bits/stdc++.h
+-
+lib/huffman.h
+/home/andrew/HomeWork4/lib/huffman.h
+

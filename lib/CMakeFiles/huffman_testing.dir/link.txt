@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/huffman_testing.dir/test.cpp.o CMakeFiles/huffman_testing.dir/gtest/gtest-all.cc.o CMakeFiles/huffman_testing.dir/gtest/gtest_main.cc.o  -o huffman_testing liblib.a -pthread 

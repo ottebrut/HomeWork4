@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib.a  CMakeFiles/lib.dir/huffman.cpp.o CMakeFiles/lib.dir/tree.cpp.o
+/usr/bin/ranlib liblib.a

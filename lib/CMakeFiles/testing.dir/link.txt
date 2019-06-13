@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/testing.dir/test.cpp.o CMakeFiles/testing.dir/gtest/gtest-all.cc.o CMakeFiles/testing.dir/gtest/gtest_main.cc.o  -o testing liblib.a -pthread 
