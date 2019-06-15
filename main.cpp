@@ -18,9 +18,9 @@ int main(int argc, char *argv[]) {
         return 0;
     }
     if ((string)argv[1] == "-c") {
-        compressor(in, out);
+        compress(in, out);
     } else {
-        if (!decompressor(in, out)) {
+        if (!decompress(in, out)) {
             cout << "Invalid file for decompression\n";
             return 0;
         }
